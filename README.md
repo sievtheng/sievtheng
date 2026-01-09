@@ -3,22 +3,23 @@ Dear Hiring Manager
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  	
 <br/>
+
 <strong>👨‍💻 About Me </strong>
+
 <p>
-	
 A results-driven university graduate with a Master of Professional Accounting, seeking an Assistant Accountant role in a dynamic NZ business. Proficient in cloud accounting and data analysis, specializing in end-to-end month-end closure, statutory reporting support, and general ledger integrity. Proven ability to quickly adapt to new accounting systems and leverage data to streamline reporting processes.
 </p>
 
 <strong>📊 Repository Purpose </strong>
 
-<p>
+
 This public repository is designed to:
 <list>
 - Demonstrate my FP&A skill set through practical, real-world inspired projects
 - Share examples of analytical tools and dashboards I've developed
 - Showcase proficiency in Excel modeling and Power BI reporting
 </list>
-</p>
+
 
 Each project folder includes:
 - A brief project overview
@@ -28,7 +29,6 @@ Each project folder includes:
    
 
 <strong>🧰 Project Included</strong>
-<p>
 
 1. **Sales Forecasting Model**  
    📌 Excel model using historical sales data and trends to project future revenue.
@@ -61,10 +61,11 @@ Each project folder includes:
 <!--<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=bootstrap&logoColor=black"></a>-->
 <!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
 <!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->	
-</p>
 
 <strong>🗄️ Databases and Cloud Hosting</strong>
+
 <p>
+	
 <a href="#"><img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
 <a href="#"><img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 <a href="#"><img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
@@ -77,7 +78,9 @@ Each project folder includes:
 <!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>-->
 </p>
 
+
 <strong>💻 Software and Tools</strong>
+
 <p>
 <a href="https://www.github.com/sievtheng/"><img title="github.com/sievtheng" src="https://img.shields.io/badge/-Github%20-424949?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome%20-yellow?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
