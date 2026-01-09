@@ -52,19 +52,19 @@ Each project folder includes:
 
 1. **Sales Forecasting Model**  
    📌 Excel model using historical sales data and trends to project future revenue.
-   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Sales-Forecasting-Model
+   https://github.com/sievtheng/sievtheng/blob/main-2025/Sales-Forecasting-Model
    
 2. **Monthly Budget VS Actual Analysis** 
    📌 Excel-based financial dashboard highlighting key variances and performance metrics.
-   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Monthly-Budget-vs-Actual-Analysis
+   https://github.com/sievtheng/sievtheng/blob/main-2025/Monthly-Budget-vs-Actual-Analysis
    
 3. **Cost Centre Performance Dashboard**  
    📌 Power BI dashboard visualizing expenses by cost centres with drill-through capability.
-   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Cost-Centre-Performance-Dashboard
+   https://github.com/sievtheng/sievtheng/blob/main-2025/Cost-Centre-Performance-Dashboard
 
 4. **Headcount and Payroll Analysis**  
    📌 A breakdown of workforce costs across departments with trend insights.
-   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Headcount-and-Payroll-Analysis
+   https://github.com/sievtheng/sievtheng/blob/main-2025/Headcount-and-Payroll-Analysis
   
 
 	<!--<a href="#"><img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>-->
