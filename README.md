@@ -46,33 +46,43 @@ Each project folder includes:
 		<!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>-->
 
 
-<strong>🧰 Frameworks and Libraries</strong>
+<strong>🧰 Project Included</strong>
 
 <p>
-<a href="#">
-<img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-<a href="#">
-<a href="#">
-<img align="center" alt="Logo do Svelte" height="30" width="40" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="#">
-<!--img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
-<a href="#">
-<!--<img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></a>
-<a href="#">-->
-<img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
 
-<!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>-->
-<!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>-->
-<!--<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
-<!--<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=bootstrap&logoColor=black"></a>-->
-<!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->	
+1. **Sales Forecasting Model**  
+   📌 Excel model using historical sales data and trends to project future revenue.
+   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Sales-Forecasting-Model
+   
+2. **Monthly Budget VS Actual Analysis** 
+   📌 Excel-based financial dashboard highlighting key variances and performance metrics.
+   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Monthly-Budget-vs-Actual-Analysis
+   
+3. **Cost Centre Performance Dashboard**  
+   📌 Power BI dashboard visualizing expenses by cost centres with drill-through capability.
+   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Cost-Centre-Performance-Dashboard
+
+4. **Headcount and Payroll Analysis**  
+   📌 A breakdown of workforce costs across departments with trend insights.
+   https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Headcount-and-Payroll-Analysis
+  
+
+	<!--<a href="#"><img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>-->
+	<!--<a href="#"><img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>-->
+
+	<!--<a href="#"><img align="center" alt="Logo do Svelte" height="30" width="40" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"></a>-->
+	<!--<a href="#"><img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>-->
+	<!--<a href="#"><img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>-->
+	<!--<a href="#"><img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></a>-->
+	<!--<a href="#"><img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a> -->
+	<!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
+	<!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>-->
+	<!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
+	<!--<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>-->
+	<!--<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
+	<!--<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=bootstrap&logoColor=black"></a>-->
+	<!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
+	<!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->	
 </p>
 
 <strong>🗄️ Databases and Cloud Hosting</strong>
