@@ -88,18 +88,10 @@ Each project folder includes:
 <strong>🗄️ Databases and Cloud Hosting</strong>
 
 <p>
-<a href="#">
-<img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
-
-
-
-
+<a href="#"><img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+<a href="#"><img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
+<!--<a href="#"> <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>-->
 <!--<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>-->
 <!--<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>-->
 <!--<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>-->
@@ -112,19 +104,16 @@ Each project folder includes:
 
 <p>
 <a href="https://www.github.com/sievtheng/"><img title="github.com/sievtheng" src="https://img.shields.io/badge/-Github%20-424949?style=for-the-badge&logo=github&logoColor=white"></a> 
-<a href="#"><img title="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
-<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen%20-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<!--<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen%20-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>-->
 <a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome%20-yellow?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<a href="#"><img title="Colab" src="https://img.shields.io/badge/-Colab%20-00b56a?style=for-the-badge&logo=google-colab&logoColor=white"></a>
-<a href="#"><img title="Postman" src="https://img.shields.io/badge/-Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="#"><img title="Adobe Photo Shop" src="https://img.shields.io/badge/-Adobe%20Photo%20Shop-%23FF0000?style=for-the-badge&logo=adobe&logoColor=white"></a>
+<!--<a href="#"><img title="Colab" src="https://img.shields.io/badge/-Colab%20-00b56a?style=for-the-badge&logo=google-colab&logoColor=white"></a>-->
+<!--<a href="#"><img title="Postman" src="https://img.shields.io/badge/-Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>-->
 <a href="#"><img title="Git" src="https://img.shields.io/badge/-Git-%FE7A16?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img title="Microsoft" src="https://img.shields.io/badge/-Microsoft%20Office-%2334A853?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="#"><img title="Jupyter" src="https://img.shields.io/badge/-Jupyter%20-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+<!--<a href="#"><img title="Jupyter" src="https://img.shields.io/badge/-Jupyter%20-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>-->
 <a href="#"><img title="Figma" src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img title="Npm" src="https://img.shields.io/badge/-Npm%20-red?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="#"><img title="Vite" src="https://img.shields.io/badge/-Vite%20-grey?style=for-the-badge&logo=vite&logoColor=white"></a>
-<a href="#"><img title="Gatsby" src="https://img.shields.io/badge/-Gatsby%20-blue?style=for-the-badge&logo=gatsby&logoColor=white"></a>
+<!--<a href="#"><img title="Npm" src="https://img.shields.io/badge/-Npm%20-red?style=for-the-badge&logo=npm&logoColor=white"></a>-->
+<a href="#"><img title="Xero" src="https://img.shields.io/badge/-Xero%20-skyblue?style=for-the-badge&logo=Xero&logoColor=grey"></a>
+<!--<a href="#"><img title="Gatsby" src="https://img.shields.io/badge/-Gatsby%20-blue?style=for-the-badge&logo=gatsby&logoColor=white"></a>-->
 <a href="#"><img title="jQuery" src="https://img.shields.io/badge/-jQuery%20-green?style=for-the-badge&logo=jquery&logoColor=white"></a>
 
 <!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>-->
@@ -144,11 +133,10 @@ Each project folder includes:
 <!--<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>-->
     	
 </p>
-
-<!-- https://github.com/thengwonderland/github-readme-stats -->
-
-<!--<strong>💻 GitHub Profile Stats</strong>
 <p>
+<!-- https://github.com/thengwonderland/github-readme-stats -->
+<!--<strong>💻 GitHub Profile Stats</strong>
+
 <!--<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>-->
 </p> 
 <!--📊 Github Stats -->
